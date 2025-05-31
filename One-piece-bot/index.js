@@ -2,8 +2,10 @@
 const express = require('express');
 const app = express();
 
+let botStatus = "🔄 Bot is still starting..."; // default while initializing
+
 app.get('/', (req, res) => {
-  res.send('One Piece Bot is alive!');
+  res.send(`One Piece Bot Status: ${botStatus}`);
 });
 
 const PORT = process.env.PORT || 3000;
@@ -65,6 +67,7 @@ if (fs.existsSync(commandsPath)) {
 
 client.once("ready", () => {
   console.log(`✅ Logged in as ${client.user.tag}`);
+  botStatus = `✅ Bot is logged in as ${client.user.tag}`;
 });
 
 client.on("messageCreate", async (message) => {
@@ -110,4 +113,7 @@ client.on("interactionCreate", async (interaction) => {
 });
 
 // Login your bot
-client.login(process.env.TOKEN);
+client.login(process.env.TOKEN).catch((error) => {
+  console.error("❌ Failed to login bot:", error);
+  botStatus = "❌ Bot failed to login. Check your token!";
+});
