@@ -1,15 +1,19 @@
 {
-  "name": "nodejs",
+  "name": "one-piece-discord-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A One Piece card-based Discord bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "discord",
+    "bot",
+    "one-piece",
+    "cards"
+  ],
+  "author": "nasif",
+  "license": "MIT",
   "dependencies": {
     "@types/node": "^22.13.11",
     "discord.js": "^14.19.3",
