@@ -1,0 +1,438 @@
+{
+  "1364262524345913444": {
+    "Igaram": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 160,
+      "health": 220,
+      "speed": 70,
+      "image": "https://files.catbox.moe/5c5z4v.webp",
+      "evolved": false
+    },
+    "X Drake": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 380,
+      "health": 400,
+      "speed": 110,
+      "image": "https://files.catbox.moe/s1qql3.webp",
+      "evolved": false
+    },
+    "Inazuma": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 380,
+      "health": 350,
+      "speed": 110,
+      "image": "https://files.catbox.moe/96lmbx.webp",
+      "evolved": false
+    },
+    "Vivi": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 160,
+      "health": 220,
+      "speed": 90,
+      "image": "https://files.catbox.moe/3h4uiq.webp",
+      "evolved": false
+    },
+    "Arlong": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 260,
+      "health": 320,
+      "speed": 90,
+      "image": "https://files.catbox.moe/si9a7u.webp",
+      "evolved": false
+    },
+    "Nami": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 150,
+      "health": 200,
+      "speed": 100,
+      "image": "https://files.catbox.moe/wgjqjj.jpg",
+      "evolved": false
+    }
+  },
+  "1077312831487226016": {
+    "Hannyabal": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 400,
+      "health": 360,
+      "speed": 100,
+      "image": "https://files.catbox.moe/r22q9y.webp",
+      "evolved": false
+    },
+    "Usopp": {
+      "rank": "C",
+      "pulls": 2,
+      "power": 160,
+      "health": 200,
+      "speed": 70,
+      "image": "https://files.catbox.moe/6jaq5i.webp",
+      "evolved": false
+    },
+    "Sadie": {
+      "rank": "C",
+      "pulls": 2,
+      "power": 230,
+      "health": 250,
+      "speed": 95,
+      "image": "https://files.catbox.moe/89qfy1.webp",
+      "evolved": false
+    },
+    "Killer": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 360,
+      "health": 340,
+      "speed": 130,
+      "image": "https://files.catbox.moe/swap1h.webp",
+      "evolved": false
+    },
+    "Domino": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 260,
+      "health": 280,
+      "speed": 100,
+      "image": "https://files.catbox.moe/gmiaui.webp",
+      "evolved": false
+    },
+    "Arlong": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 260,
+      "health": 320,
+      "speed": 90,
+      "image": "https://files.catbox.moe/si9a7u.webp",
+      "evolved": false
+    },
+    "X Drake": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 380,
+      "health": 400,
+      "speed": 110,
+      "image": "https://files.catbox.moe/s1qql3.webp",
+      "evolved": false
+    },
+    "Vinsmoke Sanji": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 240,
+      "health": 270,
+      "speed": 130,
+      "image": "https://files.catbox.moe/44xwls.jpg",
+      "evolved": false
+    }
+  },
+  "1061685676384473199": {
+    "Kaku": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 34,
+      "health": 320,
+      "speed": 120,
+      "image": "https://files.catbox.moe/mykcr6.webp",
+      "evolved": false
+    },
+    "Gedatsu": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 21,
+      "health": 230,
+      "speed": 90,
+      "image": "https://files.catbox.moe/2i5rdl.webp",
+      "evolved": false
+    },
+    "Blueno": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 32,
+      "health": 330,
+      "speed": 110,
+      "image": "https://files.catbox.moe/u4ma2f.webp",
+      "evolved": false
+    },
+    "Duval": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 20,
+      "health": 250,
+      "speed": 80,
+      "image": "https://files.catbox.moe/o1iyke.webp",
+      "evolved": false
+    },
+    "Lola": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 20,
+      "health": 250,
+      "speed": 90,
+      "image": "https://files.catbox.moe/ieclkm.webp",
+      "evolved": false
+    },
+    "team": [
+      "Blueno",
+      "Kaku"
+    ]
+  },
+  "955253244425306152": {
+    "Vista": {
+      "rank": "A",
+      "pulls": 1,
+      "power": 52,
+      "hp": 100,
+      "speed": 130,
+      "image": "https://files.catbox.moe/gahk4f.webp",
+      "evolved": false,
+      "name": "Vista"
+    },
+    "Spandam": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 12,
+      "hp": 100,
+      "speed": 60,
+      "image": "https://files.catbox.moe/ihqgi1.webp",
+      "evolved": false,
+      "name": "Spandam"
+    },
+    "Basil Hawkins": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 37,
+      "hp": 100,
+      "speed": 100,
+      "image": "https://files.catbox.moe/zjpukf.webp",
+      "evolved": false,
+      "name": "Basil Hawkins"
+    },
+    "Nami": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 15,
+      "hp": 100,
+      "speed": 100,
+      "image": "https://files.catbox.moe/wgjqjj.jpg",
+      "evolved": false,
+      "name": "Nami"
+    },
+    "Gedatsu": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 21,
+      "hp": 100,
+      "speed": 90,
+      "image": "https://files.catbox.moe/2i5rdl.webp",
+      "evolved": false,
+      "name": "Gedatsu"
+    },
+    "Victoria Cindry": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 24,
+      "hp": 100,
+      "speed": 80,
+      "image": "https://files.catbox.moe/r2ooy1.webp",
+      "evolved": false,
+      "name": "Victoria Cindry"
+    },
+    "Crocodile": {
+      "rank": "A",
+      "pulls": 1,
+      "power": 50,
+      "hp": 100,
+      "speed": 100,
+      "image": "https://files.catbox.moe/3vn8au.webp",
+      "evolved": false,
+      "name": "Crocodile"
+    },
+    "Trafalgar Law": {
+      "rank": "A",
+      "pulls": 1,
+      "power": 50,
+      "hp": 100,
+      "speed": 120,
+      "image": "https://files.catbox.moe/ke83d5.webp",
+      "evolved": false,
+      "name": "Trafalgar Law"
+    },
+    "Sentomaru": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 42,
+      "hp": 100,
+      "speed": 90,
+      "image": "https://files.catbox.moe/wnpfdy.webp",
+      "evolved": false,
+      "name": "Sentomaru"
+    },
+    "Emporio Ivankov": {
+      "rank": "A",
+      "pulls": 1,
+      "power": 52,
+      "hp": 100,
+      "speed": 100,
+      "image": "https://files.catbox.moe/l46hcv.webp",
+      "evolved": false,
+      "name": "Emporio Ivankov"
+    }
+  },
+  "1218504465863151677": {
+    "Nightmare Luffy": {
+      "rank": "S",
+      "pulls": 1,
+      "power": 75,
+      "hp": 100,
+      "speed": 130,
+      "image": "https://files.catbox.moe/ucn5ce.jpg",
+      "evolved": false,
+      "name": "Nightmare Luffy"
+    },
+    "Daz bonez (Mr.1)": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 32,
+      "hp": 100,
+      "speed": 90,
+      "image": "https://files.catbox.moe/nqpj8y.webp",
+      "evolved": false,
+      "name": "Daz bonez (Mr.1)"
+    },
+    "Chopper": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 18,
+      "hp": 100,
+      "speed": 90,
+      "image": "https://files.catbox.moe/hxmclf.webp",
+      "evolved": false,
+      "name": "Chopper"
+    },
+    "Monkey D. Luffy": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 25,
+      "hp": 100,
+      "speed": 120,
+      "image": "https://files.catbox.moe/gi02bo.webp",
+      "evolved": false,
+      "name": "Monkey D. Luffy"
+    },
+    "Fukuro": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 25,
+      "hp": 100,
+      "speed": 100,
+      "image": "https://files.catbox.moe/aj4yl1.webp",
+      "evolved": false,
+      "name": "Fukuro"
+    },
+    "Victoria Cindry": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 24,
+      "hp": 100,
+      "speed": 80,
+      "image": "https://files.catbox.moe/r2ooy1.webp",
+      "evolved": false,
+      "name": "Victoria Cindry"
+    },
+    "Chaka": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 26,
+      "hp": 100,
+      "speed": 100,
+      "image": "https://files.catbox.moe/3ykne3.webp",
+      "evolved": false,
+      "name": "Chaka"
+    },
+    "Tashigi": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 220,
+      "hp": 100,
+      "speed": 110,
+      "image": "https://files.catbox.moe/7wqqvk.webp",
+      "evolved": false,
+      "name": "Tashigi"
+    },
+    "Franky": {
+      "rank": "B",
+      "pulls": 1,
+      "power": 36,
+      "hp": 100,
+      "speed": 100,
+      "image": "https://files.catbox.moe/t0gtg5.webp",
+      "evolved": false,
+      "name": "Franky"
+    },
+    "Paulie": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 26,
+      "hp": 100,
+      "speed": 90,
+      "image": "https://files.catbox.moe/i26vff.png",
+      "evolved": false,
+      "name": "Paulie"
+    },
+    "team": [
+      "Nightmare Luffy",
+      "Franky",
+      "Daz bonez (Mr.1)"
+    ]
+  },
+  "730356421719359498": {
+    "Gedatsu": {
+      "rank": "C",
+      "pulls": 1,
+      "power": 21,
+      "hp": 100,
+      "speed": 90,
+      "image": "https://files.catbox.moe/2i5rdl.webp",
+      "evolved": false,
+      "name": "Gedatsu"
+    },
+    "team": [
+      "Gedatsu"
+    ]
+  },
+  "1257718161298690119": {
+    "Edward Newgate II": {
+      "rank": "UR",
+      "pulls": 1,
+      "power": 100,
+      "health": 900,
+      "speed": 100,
+      "image": "https://files.catbox.moe/96j8i6.jpg",
+      "evolutionStage": 2
+    },
+    "Capone Bege": {
+      "name": "Capone Bege",
+      "rank": "B",
+      "power": 35,
+      "health": 380,
+      "speed": 90,
+      "image": "https://files.catbox.moe/97dnc6.webp",
+      "evolved": false,
+      "pulls": 1
+    },
+    "Bao Huang": {
+      "name": "Bao Huang",
+      "rank": "C",
+      "power": 25,
+      "health": 300,
+      "speed": 120,
+      "image": "https://files.catbox.moe/cex3js.png",
+      "evolved": false,
+      "pulls": 1
+    }
+  }
+}

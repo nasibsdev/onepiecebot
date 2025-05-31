@@ -1,0 +1,33 @@
+{
+  "quests": {
+    "Pull Cards": {
+      "required": 7,
+      "reward": {
+        "beli": 100,
+        "chest": "C Tier Chest"
+      }
+    },
+    "Win Duels": {
+      "required": 5,
+      "reward": {
+        "beli": 100,
+        "chest": "C Tier Chest"
+      }
+    },
+    "Quiz Master": {
+      "required": 4,
+      "reward": {
+        "beli": 100,
+        "chest": "C Tier Chest"
+      }
+    },
+    "Open Chests": {
+      "required": 1,
+      "reward": {
+        "beli": 100,
+        "chest": "C Tier Chest"
+      }
+    }
+  },
+  "lastReset": "2025-05-26"
+}
