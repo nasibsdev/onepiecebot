@@ -1,4 +1,15 @@
-require('./server');
+// Minimal server to keep Render pinging your app and keep it alive 24/7
+const express = require('express');
+const app = express();
+
+app.get('/', (req, res) => {
+  res.send('One Piece Bot is alive!');
+});
+
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`🌊 Server running on port ${PORT} - keeping bot alive!`);
+});
 
 const fs = require("fs");
 const path = require("path");
